@@ -19,7 +19,7 @@
 
 # 🚀 About Me
 
-
+```yaml
 Name: Mayank Patel
 Location: India
 Role: Full Stack Developer
@@ -30,7 +30,7 @@ Currently Learning:
   - System Design
 ````
 
-<br>
+---
 
 # 🌐 Connect With Me
 
@@ -133,7 +133,7 @@ Currently Learning:
 
 # ⚡ Fun Fact
 
-```javascript
+```javascript id="4z67m7"
 while(alive){
    eat();
    code();
