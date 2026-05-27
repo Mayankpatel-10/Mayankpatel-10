@@ -60,7 +60,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,python,django,flask,mongodb,mysql,firebase,git,github,docker,gcp,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,django,flask,mongodb,mysql,firebase,git,github,docker,aws,gcp,linux,vscode" />
 
 </div>
 
