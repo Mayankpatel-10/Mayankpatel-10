@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # Hey there 👋 I'm Mayank Patel
