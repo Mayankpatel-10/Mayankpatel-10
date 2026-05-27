@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Hey 👋, I'm Mayank Patel
