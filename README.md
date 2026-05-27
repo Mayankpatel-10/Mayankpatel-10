@@ -1,45 +1,33 @@
-<h1 align="center">Hi 👋, I'm Mayank Patel</h1>
+````md
+<div align="center">
+
+# Hey there 👋 I'm Mayank Patel
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Python+%7C+AI%2FML;Cloud+%26+DevOps+Explorer;Building+Scalable+Applications" />
+
+<br>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+Name: Mayank Patel
+Role: Full Stack Developer
+Focus: React • Python • AI/ML
+Learning: Cloud • DevOps • System Design
+Passion: Building scalable applications
+````
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer+(React);Python+Backend+Developer;AI%2FML+Explorer;Open+Source+Enthusiast" />
-</p>
-
-<h3 align="center">🚀 React Developer | Python Backend | Exploring AI/ML, Cloud & DevOps</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayankpatel-10&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
-### 🌱 Currently Learning
-- Advanced React ⚛️  
-- Backend with Python (Flask / Django) 🐍  
-- DevOps & Cloud ☁️  
-- AI/ML 🤖  
-
----
-
-### 💬 Ask me about
-- React (Frontend Development)  
-- Python Backend (Flask / Django)  
-- REST APIs  
-
----
-
-### 📫 Reach me at
-- 📧 mayankpatelmehta@gmail.com  
-
----
-
-### ⚡ Fun Fact
-- Started with Python 🐍 and now building full-stack apps with React + Python 😄  
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-
 <a href="https://www.linkedin.com/in/mayank-patel10/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -49,50 +37,66 @@
 </a>
 
 <a href="https://leetcode.com/u/mynk_1002/">
-<img src="https://skillicons.dev/icons?i=leetcode" />
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="48"/>
 </a>
 
-<a href="https://codolio.com/profile/mynk_1002">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="mailto:mayankpatelmehta@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,flask,mysql,mongodb,git" />
-</p>
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,flask,nodejs,mongodb,mysql,git,github,docker,gcp" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats:
+# 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mayankpatel-10&show_icons=true&theme=radical" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayankpatel-10&theme=radical" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayankpatel-10&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankpatel-10&layout=compact&theme=radical" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankpatel-10&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayankpatel-10&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 🧠 Coding Profiles:
+# 🧠 Coding Profiles
 
-- 🔗 LeetCode: https://leetcode.com/u/mynk_1002/  
-- 🔗 Codolio: https://codolio.com/profile/mynk_1002  
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge\&logo=LeetCode\&logoColor=yellow)](https://leetcode.com/u/mynk_1002/)
+
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge)](https://codolio.com/profile/mynk_1002)
+
+</div>
+
+---
+
+# 🚀 Current Goals
+
+✨ Master Full Stack Development
+✨ Build AI-powered applications
+✨ Learn scalable system design
+✨ Contribute to Open Source
 
 ---
 
-### 🚀 Goals:
-- Become a strong Full Stack Developer 💻  
-- Build scalable web apps 🌍  
-- Contribute to Open Source 🔥  
+<div align="center">
 
----
+### ⚡ "Code • Build • Learn • Repeat"
+
+<img src="https://komarev.com/ghpvc/?username=Mayankpatel-10&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
+```
