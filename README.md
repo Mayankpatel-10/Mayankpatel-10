@@ -71,7 +71,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,python,django,flask,fastapi,mongodb,mysql,firebase,docker,gcp,aws,git,github,linux,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,flask,fastapi,mongodb,mysql,firebase,docker,gcp,aws,git,github,linux,vscode&perline=10" />
 
 </div>
 
