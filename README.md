@@ -71,7 +71,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,django,flask,mongodb,mysql,firebase,docker,gcp,git,github,linux,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,python,django,flask,fastapi,mongodb,mysql,firebase,docker,gcp,aws,git,github,linux,vscode&perline=10" />
 
 </div>
 
@@ -79,13 +79,6 @@ Currently Learning:
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mayankpatel-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankpatel-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
 
 <br>
 
