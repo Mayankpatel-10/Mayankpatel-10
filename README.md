@@ -1,28 +1,40 @@
+
 <div align="center">
 
-# Hey 👋, I'm Mayank Patel
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Mayank%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Explorer&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Python+%7C+AI%2FML;Cloud+%26+DevOps+Explorer;Building+Scalable+Applications" />
+</div>
 
-<br><br>
+<div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Mayankpatel-10&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Python+%7C+AI%2FML;Cloud+%26+DevOps+Explorer;Building+Modern+Applications" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
+
+</div>
+
+---
+
+# 💫 About Me
 
 ```yaml
 Name: Mayank Patel
-Location: India
 Role: Full Stack Developer
-Focus: React • Python • AI/ML
+Specialization:
+  - Frontend Development
+  - Backend Development
+  - AI/ML
+Tech Stack:
+  - React
+  - Python
+  - Node.js
+  - MongoDB
 Currently Learning:
   - Cloud Computing
   - DevOps
@@ -36,42 +48,42 @@ Currently Learning:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mayank-patel10/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
-<a href="https://www.instagram.com/mynk_1002" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="55" />
+<a href="https://www.instagram.com/mynk_1002/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="60"/>
 </a>
 
 <a href="mailto:mayankpatelmehta@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="55" />
+<img src="https://skillicons.dev/icons?i=gmail" height="60"/>
 </a>
 
 <a href="https://leetcode.com/u/mynk_1002/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="55" />
+<img src="https://cdn.simpleicons.org/leetcode" height="60"/>
 </a>
 
 </div>
 
 ---
 
-# 💻 Tech Stack
+# ⚒️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,django,flask,mongodb,mysql,firebase,git,github,docker,aws,gcp,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,django,flask,mongodb,mysql,firebase,docker,gcp,git,github,linux,vscode&perline=10" />
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayankpatel-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mayankpatel-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankpatel-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankpatel-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -79,73 +91,82 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayankpatel-10&theme=tokyonight&hide_border=true&background=00000000" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayankpatel-10&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mayankpatel-10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankpatel-10&theme=tokyo-night&hide_border=true&bg_color=00000000" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayankpatel-10&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-# 🧠 Coding Profiles
+# 🚀 Featured Skills
 
 <div align="center">
 
-<a href="https://leetcode.com/u/mynk_1002/">
-<img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=LeetCode&logoColor=yellow" />
-</a>
+<img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-<a href="https://codolio.com/profile/mynk_1002">
-<img src="https://img.shields.io/badge/Codolio-Profile-blue?style=for-the-badge" />
-</a>
+<img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-AI%2FML-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud-GCP-FBBC05?style=for-the-badge&logo=googlecloud&logoColor=black"/>
 
 </div>
 
 ---
 
-# 🚀 Current Goals
+# 🎯 Current Goals
 
-✨ Become a strong Full Stack Engineer
-✨ Build AI-powered scalable apps
-✨ Master DevOps & Cloud
+<div align="center">
+
+✨ Build scalable full stack applications
+✨ Explore AI-powered systems
+✨ Master Cloud & DevOps
 ✨ Contribute to Open Source
 
+</div>
+
 ---
 
-# ⚡ Fun Fact
+# ⚡ Dev Philosophy
 
-```javascript id="4z67m7"
-while(alive){
-   eat();
-   code();
-   sleep();
-   repeat();
-}
+<div align="center">
+
+```python
+while alive:
+    learn()
+    build()
+    innovate()
+    repeat()
 ```
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💻 Code • Build • Learn • Repeat 🚀
+<img src="https://komarev.com/ghpvc/?username=Mayankpatel-10&style=for-the-badge&color=00F7FF"/>
+
+<br><br>
+
+### 💻 Code • Create • Deploy • Repeat 🚀
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+```
 ```
